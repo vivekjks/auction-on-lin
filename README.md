@@ -84,3 +84,9 @@ Open http://localhost:5173.
 ## Contributing / notes
 - Keep the Wasm target up to date before deploying.
 - If you change contract parameters, rebuild the Wasm and redeploy so IDs stay consistent with the client config.
+
+
+
+## Final
+
+--every this set and wokring and tested
